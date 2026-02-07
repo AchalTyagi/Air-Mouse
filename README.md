@@ -81,11 +81,10 @@ Convert into a desktop application
 
 ---
 
-### 🙌 Acknowledgements
+### Note
 
-MediaPipe Hands by Google
-OpenCV Community
-PyAutoGUI Developers
+Further changes can be made in the program by taking in reference of this image
+![Hand Landmarks Diagram](mediapipe-hand-map.png)
 
 ---
 
